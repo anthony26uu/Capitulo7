@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 
 
-namespace Ej5
+namespace Ej1
 {
     class Program
     {
